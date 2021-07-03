@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Roboto:wght@300&family=Ubuntu&display=swap');
+
+h3,h2{
+    font-family: 'Ubuntu', sans-serif;
+}
+p,button{
+    font-family: 'Roboto', sans-serif;
+}
+/*h4,h5{*/
+/*    font-family: 'Noto Sans JP', sans-serif;*/
+/*}*/
+
+.result{
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    padding: 5px;
+}
+.card{
+    box-shadow: 0 3px 1rem rgba(0,0,0,.1);
+
+}
+.form-inline{
+    width: 100%;
+}
+
+@media screen and (max-width: 576px){
+
+
+
+}
+
+@media screen and (max-width: 780px){
+
+
+
+}
+
+
+@media screen and (max-width: 1024px){
+
+
+}
